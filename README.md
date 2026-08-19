@@ -49,3 +49,11 @@ In this practical, we learned how to find the factorial of a number using two di
 CONCLUSION:
 
 From this practical, we understood the difference between iterative and recursive approaches for solving a problem. Both methods are useful for calculating factorials, and this practical helped us understand how loops and recursion can be used to solve the same problem.
+
+SUMMARY OF PRACTICAL - 7
+
+ The Coin Change problem is solved efficiently using Dynamic Programming by storing the minimum coins required for each amount. The algorithm has a time complexity of **O(N × A)** and space complexity of **O(A)**.
+
+CONCLUSION:
+
+Dynamic Programming avoids repeated calculations and provides an efficient solution. The execution time depends on the input size and computer performance.
