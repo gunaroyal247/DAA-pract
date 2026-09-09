@@ -69,6 +69,7 @@ CONCLUSION:
 The 0/1 Knapsack problem is efficiently solved using dynamic programming to maximize the total value within the given capacity. The program accepts user input and calculates the optimal solution while measuring its execution time. The algorithm has a time complexity of O(n × W), making it suitable for solving moderate-sized knapsack problems.
 
 SUMMARY OF PRACTICAL - 6
+
 Chain Matrix Multiplication using Dynamic Programming finds the optimal order of multiplying matrices to minimize the total number of scalar multiplications. The algorithm stores intermediate results in a dynamic programming table and efficiently determines the minimum multiplication cost. It has a time complexity of **O(n³)** and a space complexity of **O(n²)**, with execution time measured using Python’s `time.perf_counter()`.
 
 CONCLUSION:
