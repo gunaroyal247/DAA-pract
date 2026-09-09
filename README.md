@@ -57,3 +57,13 @@ SUMMARY OF PRACTICAL - 7
 CONCLUSION:
 
 Dynamic Programming avoids repeated calculations and provides an efficient solution. The execution time depends on the input size and computer performance.
+
+SUMMARY OF PRACTICAL - 5
+
+The 0/1 Knapsack problem uses dynamic programming to find the maximum value that can be placed in a knapsack without exceeding its capacity.
+The program accepts the number of items, weights, values, and capacity from the user and calculates the maximum possible value.
+Its time complexity is O(n × W), space complexity is O(n × W), and the actual execution time is measured using time.perf_counter().
+
+CONCLUSION:
+
+The 0/1 Knapsack problem is efficiently solved using dynamic programming to maximize the total value within the given capacity. The program accepts user input and calculates the optimal solution while measuring its execution time. The algorithm has a time complexity of O(n × W), making it suitable for solving moderate-sized knapsack problems.
