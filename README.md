@@ -1,4 +1,4 @@
-# Pract1-DAA-
+# PRACTICAL - 1
 Summary of Pract1:
                 From this practicals i have a gained a information about the various sorting algorithms,i have used the PYTHON as my Programming Language
                       1.Bubble Sort
@@ -19,7 +19,7 @@ Conclusion:
 
 
 
- # Pract2-DAA
+ # PRACTICAL - 2
 Summary of pract2:
                From this practicals i have learned about the various Searching Algorithms,which are efficiently used for Searching the particular elements in the given Array.
                      1.Linear Search Algorithms
@@ -33,7 +33,7 @@ Conclusion:
 
 
 
- # Pract3-DAA
+ # PRACTICAL - 3
 
 SUMMARY OF PRACTICAL 3: 
 In practical 3 we learn about heap sort In that we learn about MAX and MIN heap sort also HEAP SORT:Heap sort is a sorting algorithm that uses a heap data structure to arrange elements in ascending or descending order. MAX HEAP:A Max Heap is a complete binary tree where the parent node is greater than or equal to its children. MIN HEAP:A Min Heap is a complete binary tree where the parent node is smaller than or equal to its children. Ascending order use a Max Heap. Descending order use a Min Heap.
